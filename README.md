@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning SAP Business one & Vue 3.
 
-- ⚡ Fun fact: "I'll touch it even if it works"
+- ⚡ Fun fact: "I'll touch it even if it works" – because there's always room for improvement and exploration!
 
 - 🤝 I’m available for collaboration on interesting projects.
 
