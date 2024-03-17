@@ -9,9 +9,11 @@
 
 <!--  - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🌱 I’m currently learning Cloud architecture.
+- 🌱 I’m currently learning SAP Business one & Vue 3.
 
-- 🤝 I’m available for freelancing & collaboration on interesting projects.
+- ⚡ Fun fact: "I'll touch it even if it works"
+
+- 🤝 I’m available for collaboration on interesting projects.
 
 - 💬 Ask me about **Laravel && APIs**
 
