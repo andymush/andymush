@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Nderitu - (Andy)</h1>
+<h1 align="center">Hi 👋, I'm Andrew Nderitu </h1>
 <h3 align="center">A passionate Backend developer from Nairobi Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/AndrewNderitu__" target="blank"><img src="https://img.shields.io/twitter/follow/AndrewNderitu__?logo=twitter&style=for-the-badge" alt="AndrewNderitu__" /></a> </p>
